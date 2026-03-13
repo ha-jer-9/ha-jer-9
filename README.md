@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=ha-jer-9&color=ff69b4&style=plastic&label=🌱)
 <!--
 **ha-jer-9/ha-jer-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
